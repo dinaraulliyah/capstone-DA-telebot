@@ -7,31 +7,31 @@ This is developed as one of [Algoritma Academy](https://algorit.ma/) Data Analyt
 The maximum score you will obtain from this project is 16 points:  
 
 - **Setup (3 points)**
-    - [ ] **Prepare virtual environment**
+    - [x] **Prepare virtual environment**
       - Please provide `requirements.txt` on the project folder.
-    - [ ] **Create Telegram bot API via BotFather**
+    - [x] **Create Telegram bot API via BotFather**
       - Please provide your bot link when making a submission.
-    - [ ] **Using `os.environ` to secure token**
+    - [x] **Using `os.environ` to secure token**
       - Important: Make sure you do not push `.env` to your GitHub Repository.
 
 - **Chatbot functionalities**
     - **Basic function (3 points)**
-        - [ ] **Command `/start` or `/help`**: correctly respond to user trigger
-        - [ ] **Command `/about`**: provide developer information
-        - [ ] **Function `echo_all()`**: using `emoji`
+        - [x] **Command `/start` or `/help`**: correctly respond to user trigger
+        - [x] **Command `/about`**: provide developer information
+        - [x] **Function `echo_all()`**: using `emoji`
     - **Summary text report: `/summary` (3 points)**
-        - [ ] Perform necessary **data wrangling** steps to extract information
-        - [ ] Perform the right **mathematical calculation**
-        - [ ] Send **summary message** using `Template`
+        - [x] Perform necessary **data wrangling** steps to extract information
+        - [x] Perform the right **mathematical calculation**
+        - [x] Send **summary message** using `Template`
     - **Visualization report: `/plot` (4 points)**
-        - [ ] Perform necessary **data wrangling** steps to extract information
-        - [ ] Perform the right **mathematical calculation**
-        - [ ] **Send plot** with caption
-        - [ ] **Tidy** plot layout (title, label, color, size)
+        - [x] Perform necessary **data wrangling** steps to extract information
+        - [x] Perform the right **mathematical calculation**
+        - [x] **Send plot** with caption
+        - [x] **Tidy** plot layout (title, label, color, size)
 - **Application deployment (3 points)**
-    - [ ] Using **`Flask`** to serve the chatbot as an application
-    - [ ] **Deploy** to Heroku using GitHub or Heroku CLI
-    - [ ] Deployed chatbot run smoothly **without error**
+    - [x] Using **`Flask`** to serve the chatbot as an application
+    - [x] **Deploy** to Heroku using GitHub or Heroku CLI
+    - [x] Deployed chatbot run smoothly **without error**
 
 ## Project File Structure
 
