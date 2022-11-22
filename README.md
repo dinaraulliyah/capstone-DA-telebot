@@ -2,6 +2,8 @@
 
 This is developed as one of [Algoritma Academy](https://algorit.ma/) Data Analytics Specialization Capstone Projects. The deliverable of this project is a Python script to create a Telegram chatbot using `telebot` package. We will also deploy the chatbot to [Heroku](https://herokuapp.com/) and use `Flask` to set up the backend application.
 
+![Telegram Bot](https://user-images.githubusercontent.com/86821236/203182610-c0dae335-dd3c-49de-a638-a6eb15b8bf42.jpeg)
+
 ## Rubrics
 
 The maximum score you will obtain from this project is 16 points:  
